@@ -1,0 +1,17 @@
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài_1.Form1.resources
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài 1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài 1.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài 1.AssemblyInfo.cs
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\bin\Debug\net10.0-windows\bài 1.exe
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\bin\Debug\net10.0-windows\bài 1.deps.json
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\bin\Debug\net10.0-windows\bài 1.runtimeconfig.json
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\bin\Debug\net10.0-windows\bài 1.dll
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\bin\Debug\net10.0-windows\bài 1.pdb
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài 1.dll
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\refint\bài 1.dll
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài 1.pdb
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài 1.genruntimeconfig.cache
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\ref\bài 1.dll
+C:\Users\Admin\Downloads\lap_trinh_net\bai ktra số 2\bài 1\bài 1\obj\Debug\net10.0-windows\bài 1.csproj.Up2Date
