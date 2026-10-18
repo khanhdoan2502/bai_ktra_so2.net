@@ -34,8 +34,11 @@
 
 ## Bài 3
 ### 1. Ảnh màn hình Giao diện chính
+<img width="797" height="488" alt="image" src="https://github.com/user-attachments/assets/8a65116a-ebe3-468a-9c09-6ee6cf6e8d19" />
+<img width="1917" height="1131" alt="image" src="https://github.com/user-attachments/assets/4aa1a7da-5a05-4b56-9637-e412e811cb2a" />
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+<img width="1917" height="1131" alt="image" src="https://github.com/user-attachments/assets/9a3aa02b-ef67-448c-b3d2-8f953758f9cc" />
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 
